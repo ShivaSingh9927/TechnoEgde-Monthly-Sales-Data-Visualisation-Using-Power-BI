@@ -1,0 +1,37 @@
+1. Extract all the files and keep in a folder only then you can do this practical.
+2. It requires corporate email id
+3. Students who do not have this can do this practical by other method.
+For that you have to see video how to get all excel files from a folder. 
+https://youtu.be/GyyUd79nbl0
+
+4. Understand the problem people facing today and try to relate and do the practical. If you are fresher in Power BI, atleast understand the problem statement and be ready for the interview where you can tell this case study. 
+
+Cheers !!!
+Share with other people if this helps you !!!
+
+
+There is one company technoedge learning services which keeps on receiving the data every month. There is a dedicated team who sits cleans and combine the data, create a report in microsoft
+excel and then they send it. It actively takes a lot of time, how powerbi can help it, how powerbi can solve this issue, how it can automate your end to end work. 
+
+1. What people kept on doing is they will open one file copy and then paste it, they will do the same for every month
+2. If you get smarter you can use microsoft excel VBA again if you are more smarter you can use python and automate this process
+3. but powerbi can clean the dirtest possible data without coding and do the same work
+
+ Now you want to present the data to the director of the company and director wants to understand
+1. How much profit we receive
+2. month with highest profit 
+3. which client gave more profit
+4. Which region gives the maximum profit
+ so that he can take better decision to improve overall profit
+
+Now most of the people invest 70% of the time in cleaning but here we will be doing it quicker then that
+
+The date is of online shopping orders
+
+note- 
+1.In the csv files the name of the columns should be exactly same
+2.the columns can be here and there
+3. The number of columns can be less or more 
+
+What is dashboard?
+It is a visual presentation of your textual data giving 360 degree insights about the data helping end users to take quick decisions.
